@@ -1,3 +1,3 @@
-# Bem-vindo à minha base de estudos
+# Base de Conhecimento Pessoal
 
-Este site contém artigos técnicos, notas e referências.
+Agregado de documentos contendo exemplos, explicações e detalhes de situações encontradas ao longo do tempo.
